@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+  width: 600px;
+  font-family: Arial;
+  line-height: 150%;
+}
+
+.formstyle {
+  background-color: white;
+}
+
+.infostyle {
+  background-color: white;
+  color: black;
+}
+
+.appstyle {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px
+}
+
+.detailsstyle {
+  color: black;
+}
+
+.flagstyle {
+  padding-top: 30px;
+}
